@@ -1,0 +1,14 @@
+--create ..\Output\Obj\timer.lib
+..\output\obj\reprintf.o
+..\output\obj\main.o
+..\output\obj\stm32f10x_it.o
+..\output\obj\lcd_2004.o
+..\output\obj\stm32f10x_tim.o
+..\output\obj\stm32f10x_exti.o
+..\output\obj\misc.o
+..\output\obj\stm32f10x_gpio.o
+..\output\obj\stm32f10x_usart.o
+..\output\obj\stm32f10x_rcc.o
+..\output\obj\core_cm3.o
+..\output\obj\system_stm32f10x.o
+..\output\obj\startup_stm32f10x_hd.o

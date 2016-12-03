@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=IR Pin=IC1-13
+Removed Pin From Net: NetName=MODE_2 Pin=IC1-14
+Removed Pin From Net: NetName=BUTT_5 Pin=IC1-15
+Removed Pin From Net: NetName=BUTT_2 Pin=IC1-16
+Removed Pin From Net: NetName=MODE_1 Pin=IC1-17
+Removed Pin From Net: NetName=OUT_IR Pin=IC1-42
+Change Component Comment : Designator=led2 Old Comment=led New Comment=0805
+Added Pin To Net: NetName=OUT_IR Pin=IC1-16
+Added Pin To Net: NetName=BUTT_2 Pin=IC1-25
+Added Pin To Net: NetName=IR Pin=IC1-26
+Added Pin To Net: NetName=MODE_2 Pin=IC1-27
+Added Pin To Net: NetName=BUTT_5 Pin=IC1-28
+Added Pin To Net: NetName=MODE_1 Pin=IC1-29

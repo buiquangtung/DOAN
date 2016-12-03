@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=OUT_IR Pin=IC1-16
+Removed Pin From Net: NetName=BUTT_2 Pin=IC1-25
+Removed Pin From Net: NetName=IR Pin=IC1-26
+Removed Pin From Net: NetName=MODE_2 Pin=IC1-27
+Removed Pin From Net: NetName=BUTT_5 Pin=IC1-28
+Removed Pin From Net: NetName=MODE_1 Pin=IC1-29
+Change Component Comment : Designator=R7 Old Comment=1k New Comment=470
+Change Component Comment : Designator=R5 Old Comment=330 New Comment=220
+Added Component: Designator=IR1(IR)
+Added Component: Designator=R71(RES_0805)
+Added Pin To Net: NetName=IR Pin=IC1-13
+Added Pin To Net: NetName=MODE_2 Pin=IC1-14
+Added Pin To Net: NetName=BUTT_5 Pin=IC1-15
+Added Pin To Net: NetName=BUTT_2 Pin=IC1-16
+Added Pin To Net: NetName=MODE_1 Pin=IC1-17
+Added Pin To Net: NetName=OUT_IR Pin=IC1-42
+Added Pin To Net: NetName=GND Pin=IR1-2
+Added Pin To Net: NetName=5V Pin=IR1-3
+Added Pin To Net: NetName=5V Pin=R71-2
+Added Pin To Net: NetName=IN_IR Pin=IC1-10
+Added Pin To Net: NetName=IN_IR Pin=IR1-1
+Added Pin To Net: NetName=IN_IR Pin=R71-1
+Added Net: Name=IN_IR
+Added Member To Class: ClassName=Sheet_REMOTE CONTROL IR Member=Component IR1 IR
+Added Member To Class: ClassName=Sheet_REMOTE CONTROL IR Member=Component R71 10k

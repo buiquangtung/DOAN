@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=BUTT_3 Pin=IC1-25
+Removed Pin From Net: NetName=MODE_2 Pin=IC1-26
+Removed Pin From Net: NetName=IR Pin=IC1-27
+Added Pin To Net: NetName=IR Pin=IC1-12
+Added Pin To Net: NetName=MODE_2 Pin=IC1-13
+Added Pin To Net: NetName=BUTT_3 Pin=IC1-14

@@ -1,0 +1,20 @@
+..\output\obj\i2c.o: ..\User\Source C\i2c.c
+..\output\obj\i2c.o: ..\User\Include\i2c.h
+..\output\obj\i2c.o: ..\Code\main.h
+..\output\obj\i2c.o: ..\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+..\output\obj\i2c.o: ..\..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+..\output\obj\i2c.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\output\obj\i2c.o: ..\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+..\output\obj\i2c.o: ..\Code\stm32f10x_conf.h
+..\output\obj\i2c.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
+..\output\obj\i2c.o: ..\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+..\output\obj\i2c.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+..\output\obj\i2c.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+..\output\obj\i2c.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+..\output\obj\i2c.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+..\output\obj\i2c.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+..\output\obj\i2c.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\output\obj\i2c.o: ..\User\Include\i2c.h
+..\output\obj\i2c.o: ..\User\Include\24cxx.h
+..\output\obj\i2c.o: ..\Code\main.h
+..\output\obj\i2c.o: ..\Code\DEF_STM32.h
