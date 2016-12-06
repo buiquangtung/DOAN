@@ -1,13 +1,3 @@
-/*******************************************************************************
-  *Ten Tep         :     main.h
-  *Ngay            :     16/06/2014
-  *Tac Gia         :     MinhHa R&D Team
-  *Cong Ty         :     MinhHaGroup
-  *Webside         :     mcu.banlinhkien.vn
-  *Phien Ban       :     V1.0
-  *Tom Tat         :     Khai bao, dinh nghia mot so thanh ghi cho STM32.
-  *****************************************************************************/
-	
 #ifndef __DEF_STM32_H
 #define __DEF_STM32_H
 
@@ -299,5 +289,4 @@
 #define PING_15			PIN_G(15)
 #endif
 /*------------------------------KET THUC FILE-------------------------------
- ______________________________MinhHa R&D Team______________________________*/
  
